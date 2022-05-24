@@ -2,7 +2,7 @@
 
 
 
-The fourth edition of the Holy Grail of Research Practice took place on May 23. We would like to thank Iris van Rooij, Angelika Stefan, Fred Hasselman, Max Primbs, Farnaz Mosannanzadeh, Pierre Souren and Julian Quandt, as well as all attendeeds (in person and online) for their valuable contributions and input!
+The fourth edition of the Holy Grail of Research Practice took place on May 23. We would like to thank Iris van Rooij, Angelika Stefan, Fred Hasselman, Max Primbs, Farnaz Mosannanzadeh, Pierre Souren and Julian Quandt, as well as all attendees (in person and online) for their valuable contributions and input!
 
 In case you want to revisit the materials or couldn't join the workshop: On this page you can find all recordings of the research flashes and some extra materials/references. A link to all the materials of the Data simulation workshop can be found as well.
 
