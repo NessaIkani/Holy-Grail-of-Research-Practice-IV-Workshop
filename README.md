@@ -31,7 +31,6 @@ building. The right tools for theory building are known and available. But psych
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/7WFaI4R88J8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[<img src="https//Image research flash Iris van Rooij.jpg" width="50%">]([https://youtu.be/7WFaI4R88J8) "Now in Android: 55")
 
 
 ##### Research Flash 6 - When N=1 and t=many: ‘model-free’ analysis of multivariate time series data (by Fred Hasselman)
