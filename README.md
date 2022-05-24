@@ -17,6 +17,8 @@ When preparing and analysing data, researchers make a multitude of decisions. In
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/X2i9Mx6EEUE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+
 ##### Research Flash 2 - Beyond power: Research design in the Bayesian age (by Angelika Stefan)
 The Bayesian statistical framework offers many practical benefits to researchers and has attracted more and more attention in the past decade. However, the
 added flexibility of the Bayesian framework is still rarely embraced in psychological research designs. Here, I will outline several ways in which Bayesian thinking can be integrated into the research workflow, and how it can make our research designs more efficient and informative.
