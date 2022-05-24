@@ -12,4 +12,19 @@ On May 23rd, the fourth edition of the Holy Grail of Research Practice took plac
 **Research Flash 1: Discovering the Multiverse by (Max Primbs)**
 
 
+**Research Flash 2: Beyond power: Research design in the Bayesian age (by Angelika Stefan)**
+
+
+**Research Flash 3: If and how to do a systematic review or meta-analysis (by Farnaz Mosannenzadeh)**
+
+
+**Research Flash 4: Mediation analyses: Am I really looking at mediation (by Pierre Souren)**
+
+
+**Research Flash 5: Tools for thinking: Overcoming obstacles to theory in psychological science (by Iris van Rooij)**
+
+
+**Research Flash 6: When N=1 and t=many: ‘model-free’ analysis of multivariate time series data (by Fred Hasselman)**
+
+
 
