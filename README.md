@@ -1,4 +1,5 @@
-<img width="827" alt="Holy Grail " src="https://user-images.githubusercontent.com/106151361/170022702-6474b5b5-5412-488f-ae2f-d8e8cd8b1d83.png">
+<img width="758" alt="Screenshot 2022-05-24 at 15 47 30" src="https://user-images.githubusercontent.com/106151361/170051277-80cf047b-7bc9-4d69-860b-a091430511d2.png">
+
 
 
 The fourth edition of the Holy Grail of Research Practice took place on May 23. We would like to thank Iris van Rooij, Angelika Stefan, Fred Hasselman, Max Primbs, Farnaz Mosannanzadeh, Pierre Souren and Julian Quandt, as well as all attendeeds (in person and online) for their valuable contributions and input!
