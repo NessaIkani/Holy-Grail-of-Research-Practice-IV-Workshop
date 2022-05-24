@@ -5,7 +5,9 @@ On May 23rd, the fourth edition of the Holy Grail of Research Practice took plac
 
 
 
-## Recordings Research Flashes
+**## Recordings Research Flashes**
+
+
 
 ## *Research Flash 1: Discovering the Multiverse by (Max Primbs)*
 
