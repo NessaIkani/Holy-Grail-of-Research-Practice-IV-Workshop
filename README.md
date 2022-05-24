@@ -11,7 +11,7 @@ In case you want to revisit the materials or couldn't join the workshop: On this
 
 
 
-**Research Flash 1 - Discovering the Multiverse by (Max Primbs)**
+######Research Flash 1 - Discovering the Multiverse by (Max Primbs######
 
 
 **Research Flash 2 - Beyond power: Research design in the Bayesian age (by Angelika Stefan)**
