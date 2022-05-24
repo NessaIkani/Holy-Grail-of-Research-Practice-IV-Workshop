@@ -3,3 +3,4 @@ On May 23rd, the fourth edition of the Holy Grail of Research Practice took plac
 
 
 ## Recordings Research Flashes
+![A9CDEE1A-A8D2-4CF4-B13B-06C2AA060E26 2](https://user-images.githubusercontent.com/106151361/170021157-321f1e23-e264-48d3-81cf-5f9a3c571e5e.jpg)
