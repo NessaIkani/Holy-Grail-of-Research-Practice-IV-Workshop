@@ -8,7 +8,7 @@ In case you want to revisit the materials or couldn't join the workshop: On this
 
 
 
-## Recordings Research Flashes
+## Research Flashes
 
 
 
@@ -40,4 +40,7 @@ building. The right tools for theory building are known and available. But psych
 I will demonstrate approaches to multivariate time series analysis based on the quantification of (patterns of) recurring values (recurrence networks). These analyses are essentially descriptive of the observed dynamics and could be used in a clinical context in which several psychological and/or physiological variables are monitored in real-time within an individual. I will also briefly highlight the method of surrogate testing with constrained realizations of the data.
 
 
+
+## Data simulation workshop (by Julian Quandt)
+The powerpoint slides of the workshop, data simulation exercises and answers can be found on the github page of Julian Quandt (https://github.com/julianquandt/power-sim-workshop-bsi-230522) 
 
