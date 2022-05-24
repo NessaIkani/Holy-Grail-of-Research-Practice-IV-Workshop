@@ -12,7 +12,7 @@ In case you want to revisit the materials or couldn't join the workshop: On this
 
 
 
-##### Research Flash 1 - Discovering the Multiverse by (Max Primbs)
+##### Research Flash 1 - The Multiverse of Madness (by Max Primbs)
 When preparing and analysing data, researchers make a multitude of decisions. In this flash, I will highlight the consequences of this variability and show how seemingly small decisions in the pre-processing and analysis pipeline can have large and unwanted consequences for the interpretation of your findings.
 
 ##### Research Flash 2 - Beyond power: Research design in the Bayesian age (by Angelika Stefan)
