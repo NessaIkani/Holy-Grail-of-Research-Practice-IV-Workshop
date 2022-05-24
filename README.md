@@ -1,8 +1,6 @@
 ## Holy Grail of Research Practive IV Workshop
 
-You can use the [editor on GitHub](https://github.com/NessaIkani/Holy-Grail-of-Research-Practice-IV-Workshop/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+On May 23rd, the fourth edition of the Holy Grail of Research Practice took place. On this page you can find all recordings of the research flashes (part 1) and some extra materials/references. A link to all the materials of the Data simulation workshop (part 2) can be found as well.
 
 ### Markdown
 
