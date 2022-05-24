@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Holy Grail of Research Practive IV Workshop
 
 You can use the [editor on GitHub](https://github.com/NessaIkani/Holy-Grail-of-Research-Practice-IV-Workshop/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
