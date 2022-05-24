@@ -28,7 +28,10 @@ Although the idea of a mediation seems relatively easy to grasp at first, it is 
 Psychology has been reforming its own practices over the last decade. Most of that reform has focused on experiments and statistics while neglecting theory
 building. The right tools for theory building are known and available. But psychologists are not picking them up. Why not? It seems that first some obstacles need to be overcome.
 
-https://youtu.be/7WFaI4R88J8
+![Uploading Image research flash Iris van Rooij.png…]((https://youtu.be/7WFaI4R88J8))
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/7WFaI4R88J8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ##### Research Flash 6 - When N=1 and t=many: ‘model-free’ analysis of multivariate time series data (by Fred Hasselman)
 I will demonstrate approaches to multivariate time series analysis based on the quantification of (patterns of) recurring values (recurrence networks). These analyses are essentially descriptive of the observed dynamics and could be used in a clinical context in which several psychological and/or physiological variables are monitored in real-time within an individual. I will also briefly highlight the method of surrogate testing with constrained realizations of the data.
