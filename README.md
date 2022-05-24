@@ -28,9 +28,10 @@ Although the idea of a mediation seems relatively easy to grasp at first, it is 
 Psychology has been reforming its own practices over the last decade. Most of that reform has focused on experiments and statistics while neglecting theory
 building. The right tools for theory building are known and available. But psychologists are not picking them up. Why not? It seems that first some obstacles need to be overcome.
 
-![Uploading Image research flash Iris van Rooij.png…]((https://youtu.be/7WFaI4R88J8))
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/7WFaI4R88J8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[<img src="https//Image research flash Iris van Rooij.jpg" width="50%">]([https://youtu.be/7WFaI4R88J8) "Now in Android: 55")
 
 
 ##### Research Flash 6 - When N=1 and t=many: ‘model-free’ analysis of multivariate time series data (by Fred Hasselman)
