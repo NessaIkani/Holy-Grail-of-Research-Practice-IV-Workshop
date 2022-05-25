@@ -41,7 +41,7 @@ building. The right tools for theory building are known and available. But psych
 ##### Research Flash 6 - When N=1 and t=many: ‘model-free’ analysis of multivariate time series data (by Fred Hasselman)
 I will demonstrate approaches to multivariate time series analysis based on the quantification of (patterns of) recurring values (recurrence networks). These analyses are essentially descriptive of the observed dynamics and could be used in a clinical context in which several psychological and/or physiological variables are monitored in real-time within an individual. I will also briefly highlight the method of surrogate testing with constrained realizations of the data.
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e_ME5fcCRM0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Data simulation workshop (by Julian Quandt)
 The powerpoint slides of the workshop, data simulation exercises and answers can be found on the github page of Julian Quandt (https://github.com/julianquandt/power-sim-workshop-bsi-230522) 
