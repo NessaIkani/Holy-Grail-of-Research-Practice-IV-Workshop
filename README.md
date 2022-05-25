@@ -23,8 +23,12 @@ When preparing and analysing data, researchers make a multitude of decisions. In
 The Bayesian statistical framework offers many practical benefits to researchers and has attracted more and more attention in the past decade. However, the
 added flexibility of the Bayesian framework is still rarely embraced in psychological research designs. Here, I will outline several ways in which Bayesian thinking can be integrated into the research workflow, and how it can make our research designs more efficient and informative.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Oys9FV0rlWA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ##### Research Flash 3 - If and how to do a systematic review or meta-analysis (by Farnaz Mosannenzadeh)
 Why do a systematic review or meta-analysis? What are its advantages and disadvantages compared to a narrative review? Which steps should you take to perform a systematic review or a meta-analysis? Which guidelines, and assisting tools/software are out there to facilitate the process? In this flash, I will provide answers to these questions, using my own ongoing systematic review project as an example.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y00EpaaiHuI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ##### Research Flash 4 - Mediation analyses: Am I really looking at mediation? (by Pierre Souren)
 Although the idea of a mediation seems relatively easy to grasp at first, it is not. Indeed, a mediation analysis is often wrongly chosen. In this flash, the approach for conducting mediation analyses will be discussed, and particularly to what extent they actually investigate the mediation you are interested in.
