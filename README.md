@@ -56,5 +56,5 @@ I will demonstrate approaches to multivariate time series analysis based on the 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/e_ME5fcCRM0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Data simulation workshop (by Julian Quandt)
-The powerpoint slides of the workshop, data simulation exercises and answers can be found on the github page of Julian Quandt (https://github.com/julianquandt/power-sim-workshop-bsi-230522) 
+The powerpoint slides of the workshop, data simulation exercises and answers can be found on the github page of Julian Quandt: https://github.com/julianquandt/power-sim-workshop-bsi-230522 
 
