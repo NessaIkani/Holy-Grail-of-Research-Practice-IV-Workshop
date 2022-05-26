@@ -46,7 +46,7 @@ building. The right tools for theory building are known and available. But psych
 
 Open-source textbook "Theoretical modeling for cognitive science and psychology" (by Mark Blokpoel & Iris van Rooij): https://computationalcognitivescience.github.io/lovelace/home
 
-Blog "Can you give an example of a good theory?" (by Iris van Rooij):https://metatheorist.com/ReproducibiliTea_Theory_Before_the_Test/
+Blog "Can you give an example of a good theory?" (by Iris van Rooij): https://metatheorist.com/ReproducibiliTea_Theory_Before_the_Test/
 
 
 ##### Research Flash 6 - When N=1 and t=many: ‘model-free’ analysis of multivariate time series data (by Fred Hasselman)
