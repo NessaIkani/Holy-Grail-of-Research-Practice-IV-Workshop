@@ -45,9 +45,9 @@ building. The right tools for theory building are known and available. But psych
 *Additional sources:*
 
 Open-source textbook "Theoretical modeling for cognitive science and psychology" (by Mark Blokpoel & Iris van Rooij):  
- https://computationalcognitivescience.github.io/lovelace/home
+ [https://computationalcognitivescience.github.io/lovelace/home](url)
 
-Blog "Can you give an example of a good theory?" (by Iris van Rooij): https://metatheorist.com/ReproducibiliTea_Theory_Before_the_Test/
+Blog "Can you give an example of a good theory?" (by Iris van Rooij): [https://metatheorist.com/ReproducibiliTea_Theory_Before_the_Test/](url)
 
 
 ##### Research Flash 6 - When N=1 and t=many: ‘model-free’ analysis of multivariate time series data (by Fred Hasselman)
@@ -56,5 +56,5 @@ I will demonstrate approaches to multivariate time series analysis based on the 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gOtAsNLVzb0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Data simulation workshop (by Julian Quandt)
-The powerpoint slides of the workshop, data simulation exercises and answers can be found on the github page of Julian Quandt: https://github.com/julianquandt/power-sim-workshop-bsi-230522 
+The powerpoint slides of the workshop, data simulation exercises and answers can be found on the github page of Julian Quandt:  [https://github.com/julianquandt/power-sim-workshop-bsi-230522](url)
 
