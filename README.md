@@ -8,7 +8,7 @@ In case you want to revisit the materials or couldn't join the workshop: On this
 
 
 
-# Research Flashes
+**# Research Flashes**
 
 
 
