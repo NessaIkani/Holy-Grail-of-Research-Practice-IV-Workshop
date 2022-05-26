@@ -40,7 +40,11 @@ building. The right tools for theory building are known and available. But psych
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/7WFaI4R88J8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+**Open-source textbook on theoretical modeling for cognitive science and psychology (written by Mark Blokpoel & Iris van Rooij)**
+https://computationalcognitivescience.github.io/lovelace/home
 
+**Blog "Can you give an example of a good theory?" (written by Iris van Rooij)**
+https://metatheorist.com/ReproducibiliTea_Theory_Before_the_Test/
 
 ##### Research Flash 6 - When N=1 and t=many: ‘model-free’ analysis of multivariate time series data (by Fred Hasselman)
 I will demonstrate approaches to multivariate time series analysis based on the quantification of (patterns of) recurring values (recurrence networks). These analyses are essentially descriptive of the observed dynamics and could be used in a clinical context in which several psychological and/or physiological variables are monitored in real-time within an individual. I will also briefly highlight the method of surrogate testing with constrained realizations of the data.
