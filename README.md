@@ -13,7 +13,7 @@ In case you want to revisit the materials or couldn't join the workshop: On this
 
 
 ##### Research Flash 1 - The Multiverse of Madness (by Max Primbs)
-When preparing and analysing data, researchers make a multitude of decisions. In this flash, I will highlight the consequences of this variability and show how seemingly small decisions in the pre-processing and analysis pipeline can have large and unwanted consequences for the interpretation of your findings.
+When preparing and analysing data, researchers make a multitude of decisions. In this flash, I highlight the consequences of this variability and show how seemingly small decisions in the pre-processing and analysis pipeline can have large and unwanted consequences for the interpretation of your findings.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/X2i9Mx6EEUE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -53,7 +53,7 @@ Blog "Can you give an example of a good theory?" (by Iris van Rooij): https://me
 ##### Research Flash 6 - When N=1 and t=many: ‘model-free’ analysis of multivariate time series data (by Fred Hasselman)
 I will demonstrate approaches to multivariate time series analysis based on the quantification of (patterns of) recurring values (recurrence networks). These analyses are essentially descriptive of the observed dynamics and could be used in a clinical context in which several psychological and/or physiological variables are monitored in real-time within an individual. I will also briefly highlight the method of surrogate testing with constrained realizations of the data.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e_ME5fcCRM0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOtAsNLVzb0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Data simulation workshop (by Julian Quandt)
 The powerpoint slides of the workshop, data simulation exercises and answers can be found on the github page of Julian Quandt: https://github.com/julianquandt/power-sim-workshop-bsi-230522 
