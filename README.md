@@ -18,7 +18,6 @@ When preparing and analysing data, researchers make a multitude of decisions. In
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/X2i9Mx6EEUE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-
 ##### Research Flash 2 - Beyond power: Research design in the Bayesian age (by Angelika Stefan)
 The Bayesian statistical framework offers many practical benefits to researchers and has attracted more and more attention in the past decade. However, the
 added flexibility of the Bayesian framework is still rarely embraced in psychological research designs. Here, I will outline several ways in which Bayesian thinking can be integrated into the research workflow, and how it can make our research designs more efficient and informative.
@@ -33,12 +32,15 @@ Why do a systematic review or meta-analysis? What are its advantages and disadva
 ##### Research Flash 4 - Mediation analyses: Am I really looking at mediation? (by Pierre Souren)
 Although the idea of a mediation seems relatively easy to grasp at first, it is not. Indeed, a mediation analysis is often wrongly chosen. In this flash, the approach for conducting mediation analyses will be discussed, and particularly to what extent they actually investigate the mediation you are interested in.
 
+*Recording research flash talk pending*
+
 ##### Research Flash 5 - Tools for thinking: Overcoming obstacles to theory in psychological science (by Iris van Rooij)
 Psychology has been reforming its own practices over the last decade. Most of that reform has focused on experiments and statistics while neglecting theory
 building. The right tools for theory building are known and available. But psychologists are not picking them up. Why not? It seems that first some obstacles need to be overcome.
 
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/7WFaI4R88J8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 **Open-source textbook on theoretical modeling for cognitive science and psychology (written by Mark Blokpoel & Iris van Rooij)**
 https://computationalcognitivescience.github.io/lovelace/home
